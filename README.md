@@ -13,7 +13,7 @@ npm install cutestrap-react --save
 Bower:
 
 ```sh
-bower install classnames --save
+bower install cutestrap-react --save
 ```
 
 yarn:
