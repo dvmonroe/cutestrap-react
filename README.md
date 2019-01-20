@@ -1,6 +1,6 @@
 # Cutestrap-React
 
-## [Cutestrap](https://github.com/tylerchilds/cutestrap) components built with [React][react]
+[Cutestrap](https://github.com/tylerchilds/cutestrap) components built with React
 
 ## Getting Started
 
